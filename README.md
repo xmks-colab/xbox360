@@ -1,2 +1,2 @@
 # xbox360
-https://colab.research.google.com/github/xmks-colab/xbox360/blob/main/Untitled0.ipynb
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xmks-colab/xbox360/blob/main/Untitled0.ipynb)
